@@ -10,8 +10,8 @@ NodeJs, [React](https://github.com/facebook/react), [MobX](https://mobx.js.org/g
 
 Boilerplate is [Create React App](https://github.com/facebook/create-react-app)
 
-TODO:install MobX with CRA [link](https://swizec.com/blog/mobx-with-create-react-app/swizec/7158)
-TODO:dockerize [link](https://mherman.org/blog/dockerizing-a-react-app/)
+*TODO:install MobX with CRA [link](https://swizec.com/blog/mobx-with-create-react-app/swizec/7158)
+*TODO:dockerize [link](https://mherman.org/blog/dockerizing-a-react-app/)
 
 ## Quick ref
 
